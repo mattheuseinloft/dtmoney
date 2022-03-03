@@ -7,3 +7,6 @@
 
 ## Configurando MirageJS
 4. yarn add miragejs
+
+## Configurando cliente do Axios
+5. yarn add axios
