@@ -4,3 +4,6 @@
 ## Instalando Styled Components
 2. yarn add styled-components
 3. yarn add @types/styled-components -D
+
+## Configurando MirageJS
+4. yarn add miragejs
